@@ -1,0 +1,12 @@
+.conversionFiled{
+    height: 30px;
+    font-size: 18px;
+    text-align: right;
+    border-radius: 6px;
+    border: 1px solid gainsboro;
+    width: 150px;
+}
+
+.sub-title{
+    margin: 0px;
+}
